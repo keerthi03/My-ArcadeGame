@@ -6,7 +6,7 @@ This is a simple game to help the player reach the river without getting hit by 
 ## HOW TO RUN THE GAME
 =========================
 
-* Go to to the the [My Arcade Game] (https://github.com/keerthi03/My-ArcadeGame.com).
+* Go to to the the [My Arcade Game] (https://github.com/keerthi03/My-ArcadeGame).
 
 * Download the zip file arcade-game.zip.
 
